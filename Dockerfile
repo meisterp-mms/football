@@ -1,4 +1,4 @@
-#Möchtegernänderungen am Dockerfile
+# Möchtegernänderungen am Dockerfile
 
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
